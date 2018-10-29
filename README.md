@@ -1,12 +1,12 @@
 # TangibleUserInterface
+A project allow users to interactive with a 3D box in Unity by moving and swichong the upper face of a physical cube.
 
-## Introduction
-Python+OpenCV Program
----------------------------------
+## Structure
+
+### Python+OpenCV Program
 Track and detect the color object in webcam.
 Pass the 2D coordinate data to C# program in Unity by UDP socket.
-Unity project
-----------------------
+### Unity project
 Apply the 2D coodinate data to 3D cube in Unity scene.
 Track the hand by LeapMotionController.
 
