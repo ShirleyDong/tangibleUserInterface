@@ -1,22 +1,22 @@
 # TangibleUserInterface
-A project allow users to interactive with a 3D box in Unity by moving and swichong the upper face of a physical cube.
+A project allow users to interactive with a 3D box in Unity by moving and swiching the upper face of a physical cube.
 
 ## Structure
-
+![Structure](https://github.com/ShirleyDong/tangibleUserInterface/blob/master/structure.JPG)
 ### Python+OpenCV Program
-Track and detect the color object in webcam.
+Track and detect the color object in webcam.<br/>
 Pass the 2D coordinate data to C# program in Unity by UDP socket.
 ### Unity project
-Apply the 2D coodinate data to 3D cube in Unity scene.
+Apply the 2D coodinate data to 3D cube in Unity scene.<br/>
 Track the hand by LeapMotionController.
 
 ## Prerequisites
-Unity 5
-Python 3.7.1
+Unity 5<br/>
+Python 3.7.1<br/>
 LeapMotionController
 
 ## Execution(can not be reverse)
-1.Execute the python program pass.py
+1.Execute the python program pass.py</br>
 2.Run the unity scene myScene
 
 Screenshot & Demo Video
