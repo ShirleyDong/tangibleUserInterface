@@ -1,6 +1,11 @@
 # TangibleUserInterface
 A project allow users to interactive with a 3D box in Unity by moving and swiching the upper face of a physical cube.
 
+Screenshot & Demo Video
+-----------------------
+To see a demo video, please click the screenshot below
+[![tangibleUserInterface](https://github.com/ShirleyDong/tangibleUserInterface/blob/master/Screen%20Shot%202018-10-29%20at%201.15.21%20PM.png)](https://www.youtube.com/watch?v=sGbt2mjmxBE "OpenCV+ Python Colour Tracking in Unity")
+
 ## Structure
 ![Structure](https://github.com/ShirleyDong/tangibleUserInterface/blob/master/structure.JPG)
 ### Python+OpenCV Program
@@ -19,10 +24,7 @@ LeapMotionController
 1.Execute the python program pass.py</br>
 2.Run the unity scene myScene
 
-Screenshot & Demo Video
------------------------
-To see a demo video, please click the screenshot below
-[![tangibleUserInterface](https://github.com/ShirleyDong/tangibleUserInterface/blob/master/Screen%20Shot%202018-10-29%20at%201.15.21%20PM.png)](https://www.youtube.com/watch?v=sGbt2mjmxBE "OpenCV+ Python Colour Tracking in Unity")
+
 
 
 
